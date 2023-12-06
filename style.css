@@ -1,10 +1,28 @@
 .first {
-    border: 50%;
-    border-radius: 50%;
-    width: 20%;
-    height: 100px;
-    color: darkcyan;
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    border-style: solid;
+    margin: 30px;
+    background-color: #f5f5f5;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
-    /* align-items: baseline; */
+    color: black;
+    border-color: aquamarine;
+}
+
+.middle {
+    border-radius: 50%;
+    border-color: aqua;
+    color: aliceblue;
+    background-color: aqua;
+    margin: 20px;
+}
+
+.end {
+    margin: 20px;
+    box-shadow: 10px 5px 5px black;
+    background-color: lightskyblue;
+    border-color: black;
+    width: auto;
+    height: 30px;
 }
