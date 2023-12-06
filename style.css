@@ -1,0 +1,10 @@
+.first {
+    border: 50%;
+    border-radius: 50%;
+    width: 20%;
+    height: 100px;
+    color: darkcyan;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    /* align-items: baseline; */
+}
